@@ -1,4 +1,4 @@
-<?php
+Penerimaan/lib/pdf/lib/<?php
 /**
  * HTML2PDF Librairy - main class
  *
